@@ -74,7 +74,7 @@ There are two ways , one can run the continuous control agent training:<br/>
 1. Run Tennis.ipynb ( with zypyter notebook, this is modified version of code supplied with the udacity project assignment. You need to spcify the environment path.)
 2. Run tennistrain.py with supplying environment path at commandline.
 
-The programs generate four outputs: 
-1. actormodel0.pth , actormodel1.pth  ( the network weights for the actor network for player 1 and 2).
-2. criticmodel0.pth , criticmodel1.pth (the networks weights for critic network for player 1 and 2)
+The programs generate two outputs: 
+1. actormodel.pth  ( the network weights for the actor network ).
+2. criticmodel.pth  (the networks weights for critic network)
 
