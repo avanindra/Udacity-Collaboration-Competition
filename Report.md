@@ -46,7 +46,7 @@ We use ReLU activation functions for both of the networks.
 
 ### Plot of Rewards:
 
-The environment was solved in 100 episodes.
+The environment was solved in 131 episodes.
 
 <img src="trainingplot.png"/>
 
