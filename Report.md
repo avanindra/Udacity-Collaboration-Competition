@@ -42,7 +42,7 @@ The critic network has following layers:<br/>
 — Third layer : input size = 128 and output size = 1<br/>
 <br/>
 
-We use ReLU activation functions for both of the networks.
+We use ReLU and tanh activation functions for actor network and ReLU for ciritc network.
 
 ### Plot of Rewards:
 
