@@ -46,7 +46,7 @@ We use ReLU and tanh activation functions for actor network and ReLU for ciritc 
 
 ### Plot of Rewards:
 
-The environment was solved in 131 episodes.
+The environment was solved in 102 episodes in our experiment ( It may slightly vary from experiment to experiment).
 
 <img src="trainingplot.png"/>
 
