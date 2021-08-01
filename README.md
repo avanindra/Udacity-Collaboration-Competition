@@ -71,7 +71,7 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 There are two ways , one can run the continuous control agent training:<br/>
 
-1. Run Tennis.ipynb ( with zypyter notebook, this is modified version of code supplied with the udacity project assignment. You need to spcify the environment path.)
+1. Run Tennis.ipynb ( with jupyter notebook, this is modified version of code supplied with the udacity project assignment. You need to spcify the environment path.)
 2. Run tennistrain.py with supplying environment path at commandline.
 
 The programs generate two outputs: 
